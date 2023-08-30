@@ -20,6 +20,10 @@ layout:
 
 # ✨ Welcome
 
+Northwich Gitbook Spaces;\
+[Wiki](http://127.0.0.1:5000/o/zv1QLXVIh7L4jgOMPlaX/s/qMJgDKOnakZGAmOwTPf9/)\
+[Fan Guide](http://127.0.0.1:5000/o/zv1QLXVIh7L4jgOMPlaX/s/okJW3rnXfN2zsjtYLUbd/)
+
 {% hint style="warning" %}
 Working in Progress ( Come back later! )
 {% endhint %}
